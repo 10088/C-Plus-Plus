@@ -39,6 +39,9 @@ var annotated_dup =
       [ "Entry", "d9/dde/structdouble__hashing_1_1_entry.html", "d9/dde/structdouble__hashing_1_1_entry" ]
     ] ],
     [ "geometry", "d5/d5f/namespacegeometry.html", [
+      [ "grahamscan", null, [
+        [ "Point", "d7/d48/structgeometry_1_1grahamscan_1_1_point.html", null ]
+      ] ],
       [ "jarvis", null, [
         [ "Convexhull", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull" ],
         [ "Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ]
@@ -75,6 +78,10 @@ var annotated_dup =
       ] ]
     ] ],
     [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", [
+      [ "circular_linked_list", null, [
+        [ "CircularLinkedList", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list.html", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list" ],
+        [ "Node", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node" ]
+      ] ],
       [ "inorder_traversal_of_bst", null, [
         [ "Node", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node.html", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node" ]
       ] ],
