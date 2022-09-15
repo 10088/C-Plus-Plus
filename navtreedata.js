@@ -139,16 +139,16 @@ var NAVTREEINDEX =
 "cpp/iterator/inserter.html",
 "cpp/utility/forward.html",
 "d1/d9e/prefix__sum__array_8cpp.html#a7c8fd967c36dbba5fdf9c71faed604cf",
-"d3/d92/pancake__sort_8cpp.html",
-"d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html#a4c4c6f63ab965317f9471518ee931b89",
-"d6/d2d/modular__inverse__simple_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d7/d88/namespaceprefix__sum__array.html",
-"d8/dcc/namespacestd.html",
-"da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"db/d9a/classuint128__t.html#a817b66c32268cf46244058a50db99503",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a5438d0a47850f520b2262b5a42f75b71",
-"de/dd3/namespace_s_h_a.html",
-"globals_func_z.html"
+"d3/d80/z__function_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"d4/ded/namespaceprobability.html",
+"d6/d26/classciphers_1_1_hill_cipher.html#ae77cad522fa44b8c985779a7188d2f41",
+"d7/d7c/classstatistics_1_1stats__computer1.html#aa13bf7c38de112f71921a5525d71a2f2",
+"d8/dc8/struct_point.html#a2e1b5fb2b2a83571f5c0bc0f66a73cf7",
+"da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html",
+"db/d9a/classuint128__t.html#a279209a184db20a7ffc8e687fdb05be2",
+"dd/d1c/classhash__chain.html#ae8457d13620497fa2046ac566252c4b0",
+"de/db3/namespaceatbash.html",
+"functions_type.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
